@@ -8,7 +8,7 @@ function Destaques() {
                 <Card className="card-hover">
                     <Card.Img variant="top" src="src/img/roma.jfif" width={300} height={300} />
                     <Card.Body>
-                        <Card.Title>Conheça nossos destinos!</Card.Title>
+                        <Card.Title>Conheça nossos destinos</Card.Title>
                         <Card.Text>
                         Venha explorar nossas incríveis opções de viagem e descubra lugares únicos para visitar!
                         </Card.Text>
@@ -26,7 +26,7 @@ function Destaques() {
                 <Card className="card-hover">
                     <Card.Img variant="top" src="src/img/espanha.jpg" width={300} height={300} />
                     <Card.Body>
-                        <Card.Title>Destinos</Card.Title>
+                        <Card.Title>Entre para saber mais</Card.Title>
                         <Card.Text>
                         Aproveite nossas promoções e conheça o que há de mais belo em nosso País.
                         </Card.Text>
