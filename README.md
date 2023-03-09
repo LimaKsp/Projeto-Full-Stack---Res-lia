@@ -1,1 +1,0 @@
-# Projeto-Full-Stack---Res-lia
